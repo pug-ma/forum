@@ -1,6 +1,6 @@
 # Fórum Python Users Group Maranhão (PUG-MA)
 
-Ama Python? Torne-se um mestre, e ajude outros a aprenderem também.
+Ama Python? Torne-se um mestre, e ajude outros a aprender também.
 
 ### Como utilizar esse fórum
 
